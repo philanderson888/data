@@ -3,12 +3,12 @@
 "BookmarkId":1,
 "Name":"BBC",
 "Url":"https://www.bbc.co.uk",
-"Category":"General"
+"Category":"News"
 },
 {
 "BookmarkId":2,
-"Name":"BBC2",
-"Url":"https://www.bbc.co.uk",
-"Category":"General"
+"Name":"Flutter vs React Native",
+"Url":"https://trends.google.com/trends/explore?cat=5&date=today%205-y&q=React%20Native,Flutter",
+"Category":"Mobile Development"
 },
 ]
