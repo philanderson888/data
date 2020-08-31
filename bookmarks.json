@@ -17,5 +17,11 @@
   "Url":"https://csharp.2000things.com/index",
   "Category":"Programming",
   "SubCategory":"C#"
-}
+},
+  {
+    "BookmarkId":4,
+    "Name":"Coronavirus World Map",
+    "Url":"https://coronavirus.jhu.edu/map.html",
+    "Category":"Health"
+  }
 ]
