@@ -40,4 +40,8 @@
  },
  {"BookmarkId":7, "Name":"Google Web Documentation","Url":"https://web.dev","Category":"Tech","Subcategory":"Web","Description":"Google's documentation for web sites"},
  {"BookmarkId":8 "Name":"Web Bundling Tools","Url":"https://bundlers.tooling.report","Category":"Tech","Subcategory":"Web","Description":"Report on web bundling tools"},  
+ {"BookmarkId":9 "Name":"Affinity Designer","Url":"https://affinity.serif.com/en-gb/designer/","Category":"Graphic Design","Subcategory":"","Description":"Photoshop For Beginners"},  
+ {"BookmarkId":99 "Name":"","Url":"","Category":"","Subcategory":"","Description":""},  
+  
+
 ]
