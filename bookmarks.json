@@ -42,6 +42,10 @@
  {"BookmarkId":8 "Name":"Web Bundling Tools","Url":"https://bundlers.tooling.report","Category":"Tech","Subcategory":"Web","Description":"Report on web bundling tools"},  
  {"BookmarkId":9 "Name":"Affinity Designer","Url":"https://affinity.serif.com/en-gb/designer/","Category":"Graphic Design","Subcategory":"","Description":"Photoshop For Beginners"},  
 {"BookmarkId":10 "Name":"Bubble.IO","Url":"https://bubble.io/","Category":"Website Design","Subcategory":"","Description":"Drag and drop websites"},  
+{"BookmarkId":11 "Name":"","Url":"https://medium.com/better-programming/introducing-appwrite-an-open-source-backend-server-for-mobile-web-developers-4be70731575d","Category":"Authentication","Subcategory":"","Description":"All in one web authentication service with OAuth"},  
+  {"BookmarkId":99 "Name":"","Url":"","Category":"","Subcategory":"","Description":""},  
+  {"BookmarkId":99 "Name":"","Url":"","Category":"","Subcategory":"","Description":""},  
+  {"BookmarkId":99 "Name":"","Url":"","Category":"","Subcategory":"","Description":""},  
   {"BookmarkId":99 "Name":"","Url":"","Category":"","Subcategory":"","Description":""},  
   
 
